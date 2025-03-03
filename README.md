@@ -1,1 +1,1 @@
-# odin-recipes
+This project aims to create a website for a specific recipe. This project will be styled using css once I have completed that section of the course.
